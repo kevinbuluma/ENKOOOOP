@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /saved
+
+# A sitemap is generated at build time when VITE_SITE_URL is configured to the verified canonical domain.
